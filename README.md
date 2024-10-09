@@ -1,1 +1,1 @@
-# StreamlitNetflixChurn
+# Churn_Prediction
